@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html LANG="EN">
+
+<head>
+
+<title>Links</title>
+
+<link href="trabalho.css" rel="stylesheet" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<h2>Locais de atendimento</h2>
+
+<p><a href="tarefa.html">Health Track</a></p>
+
+<h2>Telefone</h2>
+
+<p><a href="Telefone">11 0000-0000
+
+</body>
+
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <link rel="stylesheet" type="text/css" href="trabalho.css">
+</head>
+<body>
+    <div>Tecnologia em Saúde</div>
+    <header>
+        <h1>Health Track</h1>
+        <p>Utilize nosso serviços</p>
+        <br/>
+        <nav>
+            <p>Menu:</p>
+            <ul>
+                <li><a href="#sessao_principal">Nossos serviços</a></li>
+                <li><a href="#sessao_2">Locais de atendimento</a></li>
+                <li><a href="#contato">Entre em Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+                </tr>
+            </table>
+        </div>
+    </section>
+    <section id="contato">
+        <h2>Cadastro</h2>
+        <p>Login</p>
+        <form method="get">
+            <div>
+                <span>Nome:</span>
+                <input type="text" name="nome">
+            </div>
+            <div>
+                <span>Email:</span>
+                <input type="email" name="email">
+            </div>
+            <div>
+                <span>Logar/Cadastrar:</span>
+                <textarea></textarea>
+            </div>
+            <div>
+                <input type="submit" value="Entrar">
+            </div>
+        </form>
+    </section>
+    <footer>
+        <p>Health Track</p>
+    </footer>
+    <main>
+        <section id="sessao_principal">
+            <h2>Sobre o Health Track</h2>
+            <article>
+                <h3>Resultados exames</h3>
+                <p>Cuide da sua saúde</p>
+                <p>Procure um profissional de saúde</p>
+                <p>Assistência médica</p>
+                <p>Centros médicos</p>
+            </article>
+            <article>
+                <h3>Resultados</h3>
+                <p>Conectando profissionais de saúde e pacientes</p>
+            </article>
+        </section>
+    <section id="sessao_2">
+        <div class="divisao">
+            <h2>Venha para a Health Track!</h2>
+</body>
+</html>
